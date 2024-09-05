@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Prosjekt 1",
+        "description": "Lorem ipsum dolor sit, amet consectetur.",
+        "image": "https://i.pinimg.com/236x/a7/e5/37/a7e5373124d084615d8d7f1208f3a496.jpg",
+        "startDate": "2020-01-01",
+        "endDate": "2020-07-01"
+    },
+    {
+        "id": 2,
+        "title": "Prosjekt 2",
+        "description": "Lorem ipsum dolor sit, amet consectetur.",
+        "image": "https://i.pinimg.com/236x/46/c7/cf/46c7cf7c0369c43f6141eeba4db755fc.jpg",
+        "startDate": "2021-01-01",
+        "endDate": "2021-08-01"
+    },
+    {
+        "id": 3,
+        "title": "Prosjekt 3",
+        "description": "Lorem ipsum dolor sit, amet consectetur.",
+        "image": "https://i.pinimg.com/236x/93/5d/d4/935dd4f1cce2044aa4eb9177a5330eec.jpg",
+        "startDate": "2019-01-01",
+        "endDate": "2019-12-31"
+    }
+]
